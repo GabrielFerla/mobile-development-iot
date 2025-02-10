@@ -1,3 +1,5 @@
+// Nivelamento Javascript Aula 10/09/2025"
+
 console.log("Olá, mundo! Este é um script JavaScript.");
 
 // Declaração de variáveis
@@ -81,3 +83,5 @@ async function pegarDados() {
     return "Dados recebidos!";
 }
 pegarDados().then(console.log); // Usa .then para lidar com a resposta
+
+
